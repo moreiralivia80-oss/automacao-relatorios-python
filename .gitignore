@@ -1,0 +1,23 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Relatórios gerados pelas automações (a pasta fica no repositório, os arquivos não)
+saida/*
+!saida/.gitkeep
+
+# Arquivos temporários do Excel
+~$*
+
+# Configurações do editor
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
