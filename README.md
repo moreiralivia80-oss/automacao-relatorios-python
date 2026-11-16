@@ -143,4 +143,4 @@ As automações validam os dados antes de gerar o relatório e mostram uma mensa
 ## Autora
 
 **Lívia Moreira Teixeira**, estudante de Análise e Desenvolvimento de Sistemas.
-[GitHub](https://github.com/moreiralivia80-oss)
+[LinkedIn](https://www.linkedin.com/in/liviamoreira-software/) · [GitHub](https://github.com/moreiralivia80-oss)
