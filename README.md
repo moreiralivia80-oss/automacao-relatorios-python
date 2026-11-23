@@ -2,6 +2,8 @@
 
 Conjunto de automações em Python que transformam dados brutos (arquivos CSV e uma API REST) em relatórios Excel organizados e formatados, prontos para enviar ou analisar. É o tipo de tarefa repetitiva que costuma ser feita à mão em planilhas no dia a dia de uma empresa.
 
+![Código do boletim de notas no Visual Studio](docs/images/1795454941451_image.png)
+
 | Automação | Entrada | O que gera |
 |---|---|---|
 | **Relatório de vendas** | CSV com as vendas | Faturamento por produto (com participação no total), faturamento por mês e o detalhe de cada venda |
